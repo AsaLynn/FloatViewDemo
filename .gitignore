@@ -1,0 +1,7 @@
+*.iml
+*.apk
+.gradle
+.idea
+build
+local.properties
+output.json
